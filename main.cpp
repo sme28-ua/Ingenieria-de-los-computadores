@@ -7,7 +7,6 @@
 #include <algorithm>
 #include <iomanip>
 
-// Estructura para almacenar las estadísticas globales (Tarea B)
 struct Estadisticas {
     long long total_A = 0;
     long long total_C = 0;
